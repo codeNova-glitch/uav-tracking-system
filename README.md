@@ -1,11 +1,11 @@
 # 🛸 UAV Real-Time Detection & Tracking System
 
 > Frame-by-frame drone detection with motion trails, ID persistence, and annotated video output.  
-> **Two complementary engines** — YOLO+ByteTrack (deep learning) and MOG2 background subtraction (no GPU needed).
+> Two complementary engines** — YOLO+ByteTrack (deep learning) and MOG2 background subtraction (no GPU needed).
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | YOLO Tracker | BG-Subtraction Tracker |
 |---|---|---|
@@ -32,7 +32,6 @@
 
 ## 📊 Visual Annotations
 
-```
 ┌──────────────────────────────────────────────────────┐
 │ Frame 142/750  |  18.9%  |  FPS: 24.1  |  Tracks: 2 │  ← HUD bar
 ├──────────────────────────────────────────────────────┤
