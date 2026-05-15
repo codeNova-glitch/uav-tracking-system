@@ -7,17 +7,19 @@
 
 ## Features
 
-| Feature | YOLO Tracker | BG-Subtraction Tracker |
-|---|---|---|
-| Deep-learning detection | ✅ YOLOv8 | ❌ (classic CV) |
-| GPU acceleration | ✅ CUDA/MPS | ❌ CPU only |
-| Works without trained model | ❌ | ✅ |
-| Best for | High-resolution, complex scenes | Sky/static backgrounds |
-| Tracking algorithm | ByteTrack (built-in) | Centroid matching |
-| Motion trail overlay | ✅ | ✅ |
-| Unique ID per drone | ✅ | ✅ |
-| HUD overlay | ✅ | ✅ |
-
+Real-time UAV/drone detection and tracking
+Frame-by-frame video processing
+Two tracking engines:
+ YOLOv8 + ByteTrack (AI/deep learning)
+ Background subtraction tracker (classic computer vision)
+GPU acceleration support (CUDA/MPS)
+HUD overlay with FPS, frame count, and tracking info
+Annotated output video generation
+Synthetic drone video generator for testing
+Supports high-resolution drone footage
+CLI-based customizable parameters
+Lightweight CPU-only mode available
+Automatic output video saving
 
 
 
