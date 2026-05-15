@@ -32,8 +32,8 @@ Automatic output video saving
 
 
 
-## 📊 Visual Annotations
-
+## 📊 Visual Annotation
+```
 ┌──────────────────────────────────────────────────────┐
 │ Frame 142/750  |  18.9%  |  FPS: 24.1  |  Tracks: 2 │  ← HUD bar
 ├──────────────────────────────────────────────────────┤
