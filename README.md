@@ -20,7 +20,6 @@
 - Synthetic drone video generator for testing
 - Supports high-resolution drone footage
 - Command-line configurable parameters
-- Lightweight CPU-only mode support
 - Automatic output video saving
 - Live preview while processing
 
