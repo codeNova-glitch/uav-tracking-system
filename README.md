@@ -20,17 +20,7 @@ Supports high-resolution drone footage
 CLI-based customizable parameters
 Lightweight CPU-only mode available
 Automatic output video saving
-
-
-
-
-
-
-
-
-
-
-
+```
 
 ## 📊 Visual Annotation
 ```
